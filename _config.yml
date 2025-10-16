@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: JN
+email: nianias [at] hku.hk
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal page!
+  Researcher in observational astronomy and astrophysics at the University of Hong Kong
 github_username: jnianias
 minimal_mistakes_skin: default
 search: true
