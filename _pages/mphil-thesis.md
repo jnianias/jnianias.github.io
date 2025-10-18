@@ -1,6 +1,6 @@
 ---
-permalink: /phd-thesis/
-title: "PhD Thesis"
+permalink: /MPhil-thesis/
+title: "MPhil Thesis"
 ---
 
 You can download my MPhil thesis on emission nebulae in Brightest cluster Galaxies (PDF) here:
