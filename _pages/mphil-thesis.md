@@ -1,5 +1,5 @@
 ---
-permalink: /MPhil-thesis/
+permalink: /mphil-thesis/
 title: "MPhil Thesis"
 ---
 

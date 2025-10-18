@@ -95,3 +95,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Disable atom feed link in footer
+atom_feed:
+  hide: true
