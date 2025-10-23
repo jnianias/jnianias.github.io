@@ -2,3 +2,5 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+_posts/2010*.md
+_posts/*under-construction.md
